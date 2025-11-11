@@ -6,10 +6,10 @@ My personal Claude Code configuration for productive web development. This plugi
 
 ```bash
 # Step 1: Add the marketplace
-/plugin marketplace add jamesscalescode/jamesscalescode
+/plugin marketplace add jamesscalescode/james-claude-code
 
 # Step 2: Install the plugin
-/plugin install jamesscalescode
+/plugin install james-claude-code
 ```
 
 ## What's Inside

@@ -1,5 +1,5 @@
 {
-  "name": "jamesscalescode",
+  "name": "james-claude-code",
   "owner": {
     "name": "James",
     "contact": "github.com/jamesscalescode"
@@ -7,7 +7,7 @@
   "description": "James's curated Claude Code setup for productive development",
   "plugins": [
     {
-      "name": "jamesscalescode",
+      "name": "james-claude-code",
       "source": "./",
       "description": "Personal Claude Code configuration with 14 productivity commands and 11 specialized AI agents for modern web development",
       "version": "1.0.0",
