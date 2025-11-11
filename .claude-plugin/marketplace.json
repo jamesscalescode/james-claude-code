@@ -1,0 +1,21 @@
+{
+  "name": "jamesscalescode",
+  "owner": {
+    "name": "James",
+    "contact": "github.com/jamesscalescode"
+  },
+  "description": "James's curated Claude Code setup for productive development",
+  "plugins": [
+    {
+      "name": "jamesscalescode",
+      "source": "./",
+      "description": "Personal Claude Code configuration with 14 productivity commands and 11 specialized AI agents for modern web development",
+      "version": "1.0.0",
+      "author": {
+        "name": "James",
+        "email": "[email protected]"
+      },
+      "tags": ["productivity", "nextjs", "supabase", "typescript", "react", "development"]
+    }
+  ]
+}
